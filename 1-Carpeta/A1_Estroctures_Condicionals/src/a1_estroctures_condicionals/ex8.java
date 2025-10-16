@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author nlo7503
  */
-public class ex7 {
+public class ex8 {
     public static void main(String[] args) {
         // Declarar la variable
         double num1,num2,num3;
@@ -36,5 +36,5 @@ public class ex7 {
                 }
             }
         }
-}
+    }
 }

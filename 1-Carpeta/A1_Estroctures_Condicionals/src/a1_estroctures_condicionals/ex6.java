@@ -13,7 +13,7 @@ public class ex6 {
         // Declarar la variable
         double num1,num2;
         Scanner entrada = new Scanner(System.in);
-        // Solicitar la edad
+        
         System.out.print("introdueix el valor del  numero1: ");
         num1 = entrada.nextDouble();
         System.out.print("introdueix el valor del  numero2: ");
