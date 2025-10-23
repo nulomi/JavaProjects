@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author nlo7503
+ * @author nulomi
  */
 public class ex0 {
     public static void main(String[] args) {
